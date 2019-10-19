@@ -3,4 +3,6 @@
 ## designed by 3ds-max
 
 ### 1. Table design
-### 2. 
+#### format : .max, .jpg
+### 2. image_mapping
+### 3. image_mapping1
